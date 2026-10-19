@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Workspace UI"
+  short_description: "Material 3 Workspace UI with exact Tailwind colors"
+  default_prompt: "Use $google-workspace-ui to build this interface in the Google Workspace style with Tailwind CSS and exact hex colors."
